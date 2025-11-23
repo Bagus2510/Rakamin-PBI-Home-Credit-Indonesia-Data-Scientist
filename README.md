@@ -104,15 +104,10 @@ home-credit-risk-prediction/
 ├── model.ipynb                    # Notebook utama dengan analisis lengkap
 ├── README.md                      # Dokumentasi proyek
 ├── requirements.txt               # Dependencies
-│
-├── data/                          # Folder dataset (tidak di-upload ke Git)
-│   ├── application_train.csv
-│   ├── application_test.csv
-│   ├── bureau.csv
-│   └── previous_application.csv
-│
-└── results/                       # Hasil prediksi dan visualisasi
-    └── submission.csv
+├── application_train.csv          # Dataset training
+├── application_test.csv           # Dataset testing
+├── bureau.csv                     # Dataset bureau
+└── previous_application.csv       # Dataset previous application
 ```
 
 ## 🔍 Metodologi
