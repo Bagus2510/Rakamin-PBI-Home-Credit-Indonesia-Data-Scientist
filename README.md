@@ -103,7 +103,7 @@ home-credit-risk-prediction/
 │
 ├── model.ipynb                    # Notebook utama dengan analisis lengkap
 ├── README.md                      # Dokumentasi proyek
-├── requirements.txt               # Dependencies
+├── .gitattributes                 # Git LFS configuration
 ├── application_train.csv          # Dataset training
 ├── application_test.csv           # Dataset testing
 ├── bureau.csv                     # Dataset bureau
