@@ -1,8 +1,13 @@
 # Prediksi Risiko Kredit Home Credit Indonesia
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-orange)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-150458?logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.21%2B-013243?logo=numpy)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-F7931E?logo=scikit-learn)](https://scikit-learn.org/)
+[![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-0.8%2B-orange)](https://imbalanced-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-11557c)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11%2B-3776AB)](https://seaborn.pydata.org/)
+[![Yellowbrick](https://img.shields.io/badge/Yellowbrick-1.3%2B-yellow)](https://www.scikit-yb.org/)
 
 Proyek machine learning untuk memprediksi risiko kredit peminjam di Home Credit Indonesia menggunakan Logistic Regression dan Random Forest dengan teknik balancing data.
 
