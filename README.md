@@ -80,11 +80,19 @@ pip install -r requirements.txt
 ```
 
 ### 3. Download Dataset
+**⚠️ PENTING: Dataset tidak termasuk dalam repository karena ukurannya terlalu besar (>700MB)**
+
 Download dataset dari [Home Credit Default Risk Competition](https://www.kaggle.com/c/home-credit-default-risk/data) dan letakkan di folder yang sama dengan `model.ipynb`:
-- `application_train.csv`
-- `application_test.csv`
-- `bureau.csv`
-- `previous_application.csv`
+- `application_train.csv` (158 MB)
+- `application_test.csv` (11 MB)
+- `bureau.csv` (162 MB)
+- `previous_application.csv` (386 MB)
+
+**Cara Download:**
+1. Login/Daftar di [Kaggle](https://www.kaggle.com/)
+2. Buka [Home Credit Default Risk Competition](https://www.kaggle.com/c/home-credit-default-risk/data)
+3. Download semua file CSV yang diperlukan
+4. Extract dan letakkan di folder root project bersama `model.ipynb`
 
 ### 4. Jalankan Notebook
 ```bash
