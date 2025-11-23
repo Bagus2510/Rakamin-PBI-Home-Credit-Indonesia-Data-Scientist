@@ -242,16 +242,12 @@ Kontribusi sangat diterima! Silakan fork repository ini dan submit pull request 
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-## 📝 Lisensi
-
-Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail.
-
 ## 👨‍💻 Author
 
 **[Nama Anda]**
-- GitHub: [@username](https://github.com/username)
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- Email: email@example.com
+- GitHub: [@Bagus2510](https://github.com/Bagus2510)
+- LinkedIn: [linkedin.com/in/bagusrahmadani](https://www.linkedin.com/in/bagusrahmadani/)
+- Email: bagusrajin465@gmail.com
 
 ## 🙏 Acknowledgments
 
