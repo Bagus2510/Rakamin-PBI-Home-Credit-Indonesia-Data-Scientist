@@ -244,7 +244,7 @@ Kontribusi sangat diterima! Silakan fork repository ini dan submit pull request 
 
 ## 👨‍💻 Author
 
-**[Nama Anda]**
+**[Bagus Rahmadani]**
 - GitHub: [@Bagus2510](https://github.com/Bagus2510)
 - LinkedIn: [linkedin.com/in/bagusrahmadani](https://www.linkedin.com/in/bagusrahmadani/)
 - Email: bagusrajin465@gmail.com
